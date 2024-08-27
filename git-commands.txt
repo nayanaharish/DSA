@@ -1,6 +1,6 @@
 
 ========================================================
-Source Code Repository Tools (or) Version Control Softwares
+Source Code Repository Tools (or) Version Control Software
 ========================================================
 
 -> Multiple developers will work for project development
