@@ -234,7 +234,7 @@ Usecase
 
 => Git stash is used to save working tree changes to temporary location and make working tree clean.
 
--> After priority work completed we can get stashed changes back using 'gitstash apply'
+-> After priority work completed we can get stashed changes back using 'git stash apply'
 
 
 ============
