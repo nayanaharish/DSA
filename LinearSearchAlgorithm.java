@@ -9,6 +9,9 @@ public class LinearSearchAlgorithm {
 
     }
 
+    // doing the works assigned my manager
+    // now the second task completed ,goint to push those changes 
+
 
 
     static int findLinearSearch(int arr[],int target)
