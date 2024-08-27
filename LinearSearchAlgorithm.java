@@ -10,7 +10,7 @@ public class LinearSearchAlgorithm {
     }
 
     // doing the works assigned my manager
-    // now the second task completed ,goint to push those changes 
+    // now the second task completed ,goint to push those changes
 
 
 
