@@ -1,0 +1,17 @@
+//git stash practice 
+
+
+//code 101 
+
+function add (a,b)
+{
+ a = a % 10 ;
+b = b% 10 ;
+
+
+return a + b;}
+
+
+
+//code 102
+
