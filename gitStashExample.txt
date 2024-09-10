@@ -3,3 +3,11 @@ hi - line 1
 line 2
 
 lin3
+
+
+line 102
+=====================
+
+this is an emergency file i worked with 
+
+then i will finish my work 101 
