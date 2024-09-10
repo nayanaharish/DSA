@@ -1,6 +1,10 @@
 hi added some thing in the code m1();
 
+<<<<<<< Updated upstream
 
 
 
 hi added new source code in m2();
+=======
+more chages in m1
+>>>>>>> Stashed changes
