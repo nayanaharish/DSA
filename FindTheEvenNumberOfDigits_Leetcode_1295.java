@@ -18,9 +18,9 @@ public class FindTheEvenNumberOfDigits_Leetcode_1295 {
         {
             int num = nums[i];
             int round = 0 ;
-            while(num != 0)
+            while(num > 0)
             {
-                int rem = num % 10 ;
+                
                 num = num / 10 ;
                 round++;
             }
